@@ -1,0 +1,7 @@
+//folder
+build
+node_modules
+.vscode
+
+//file
+yarn.lock
